@@ -14,9 +14,14 @@ The dashboard provides insights into:
 - Forecast of future sales (Power BI Forecast feature)
 - Customer segments and top-performing products
 
-![Dashboard Screenshot](images/Dashboard.png)
+### 📸 Dashboard Screenshots
 
----
+#### 📄 Page 1 – Sales Overview
+![Dashboard Page 1](images/Dashboard.png)
+
+#### 📄 Page 2 – Forecast and Delivery Insights
+![Dashboard Page 2](images/Forecasting_Dashboard.png)
+
 
 ## 🛠️ Tools & Technologies
 
